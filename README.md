@@ -1,0 +1,2 @@
+# DjangoTask
+Django Task/practice
